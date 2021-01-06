@@ -12,10 +12,3 @@ Simple sorting algorithm visualizer written in python.
 
 ### Screenshot
 ![Screenshot](screenshot.jpg)
-
-### Contact Me
-[Instagram](https://instagram.com/d33kshant)
-
-[Twitter](https://twitter.com/d33kshant)
-
-[Reddit](https://reddit.com/u/d33kshant)
