@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import ttk
+from tkinter.ttk import *
 import turtle
 import random
 
@@ -125,8 +126,8 @@ def startSort():
         selectionSort()
 
 #Buttons
-start_btn = Button(root, text="Start", command=startSort)
-random_btn = Button(root, text="Randomize", command=randomize)
+start_btn = Button(root, text="Start", style="W.TButton", command=startSort)
+random_btn = Button(root, text="Randomize", style="W.TButton", command=randomize)
 
 # Arrenging the widgets on the windows
 algo_box.grid(row=0, column=1)
