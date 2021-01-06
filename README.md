@@ -1,5 +1,5 @@
 # sortvisualizer.py
-Simple sorting algorithm visualizer made written in python.
+Simple sorting algorithm visualizer written in python.
 
 ### Requirements
 1. tkinter
