@@ -11,4 +11,4 @@ Simple sorting algorithm visualizer written in python.
 3. Selection Sort
 
 ### Screenshot
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.gif)
